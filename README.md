@@ -153,11 +153,10 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Saad Abd El Ghaffar**
-- GitHub: [@SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
-- Email: saadabdelghaffar639@gmail.com
+## 📬 Contact
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar) 
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/) 
+- **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)
 
 ## 🙏 Acknowledgments
 
